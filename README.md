@@ -1,7 +1,7 @@
 # Discor-information-grapper
 
-## Overview
-This demonstration showcases how malicious QR codes can be used to compromise Discored accounts throught token theft.
+## Explanation :
+This demonstration shows a **real Discord token grabber** that steals the victim’s session and how malicious QR codes can be used to compromise Discored accounts .
 . purpose:  
 educate users and devlopers about:
 - Social engineering risks
@@ -37,9 +37,14 @@ to test this demo:
 - Document findings (for educational purposes)
 
 
-
+## consequences of the Attack 
+- Read ALL private DMs  
+- Join any server the victim is in  
+- Speak as the victim  
+- Spam / raid / delete channels
 
 ## Protective measures:
+
 ### For Users:
 
 - Never scan untrusted QR codes
@@ -61,9 +66,10 @@ to test this demo:
 3. Go to Settings → Authorized Apps → remove suspicious applications
 4. Check active sessions and log out unknown devices
 5. Contact Discord Trust & Safety if needed
+6. never open random .exe files 
 
 
-## Educational resources: 
+## Additional Resources : 
 
 [Discord Security Tips](https://discord.com/safety)
 
