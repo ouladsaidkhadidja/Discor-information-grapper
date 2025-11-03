@@ -76,4 +76,5 @@ to test this demo:
 ## Additional Resources : 
 
 [Discord Security Tips](https://discord.com/safety)
+
 [OWASP cheat-sheet] → Discord Attacks
