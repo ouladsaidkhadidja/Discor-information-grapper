@@ -1,12 +1,13 @@
-# shell_integration_project
+# Discor-information-grapper
 
 ## Overview
-thies demonstration showcases how malicious QR codes can be used to compromise Discored accounts throught token theft.
-purpose: educate users and devlopers about:
-Social engineering risks
-Discord token security
-Webhook-based data exfiltration
-QR code phishing awareness
+This demonstration showcases how malicious QR codes can be used to compromise Discored accounts throught token theft.
+. purpose:  
+educate users and devlopers about:
+- Social engineering risks
+- Discord token security
+- Webhook-based data exfiltration
+- QR code phishing awareness
 
 ## How it works: 
 1. User scans a QR code that holdes the .exe file
