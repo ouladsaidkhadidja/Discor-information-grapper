@@ -44,7 +44,7 @@ to test this demo:
 - Document findings (for educational purposes)
 
 
-## consequences of the Attack :
+## Consequences of the Attack :
 - Read ALL private DMs  
 - Join any server the victim is in  
 - Speak as the victim  
@@ -79,5 +79,11 @@ to test this demo:
 ## Additional Resources : 
 
 [Discord Security Tips](https://discord.com/safety)
+
+[official Discord guidance; QR and token safety tips](https://discord.com/safety/protecting-users-from-scams-on-discord?)
+
+[OWASP — Session Hijacking](https://owasp.org/www-community/attacks/Session_hijacking_attack?)
+
+
 
 
