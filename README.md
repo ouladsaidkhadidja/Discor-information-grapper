@@ -9,10 +9,10 @@ Webhook-based data exfiltration
 QR code phishing awareness
 
 ## How it works: 
-User scans a QR code that holdes the .exe file
-the script extracts the discord token from local storage
-token is sent to attacker via Discored webhook
-attacker can use token to access the account
+1. User scans a QR code that holdes the .exe file
+2. the script extracts the discord token from local storage
+3. token is sent to attacker via Discored webhook
+4. attacker can use token to access the account
 
 ## Requirements:
 
