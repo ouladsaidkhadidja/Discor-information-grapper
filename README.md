@@ -9,7 +9,7 @@ educate users and devlopers about:
 - Webhook-based data exfiltration
 - QR code phishing awareness
 
-## How it works: 
+## Tutorial : 
 1. User scans a QR code that holdes the .exe file
 2. the script extracts the discord token from local storage
 3. token is sent to attacker via Discored webhook
@@ -21,7 +21,11 @@ educate users and devlopers about:
 
 **Client-side** script: Token extraction logic  
 
+**Fake Discord account** : (for webhook)
+
 **Webhook**: data exfiltration
+
+Python 3.11+
 
 ## Testing:
 to test this demo:
