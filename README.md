@@ -90,11 +90,11 @@ educate users and devlopers about:
 
 ## Additional Resources : 
 
-[Discord Security Tips](https://discord.com/safety).
+[Discord Security Tips](https://discord.com/safety)
 
-[official Discord guidance; QR and token safety tips](https://discord.com/safety/protecting-users-from-scams-on-discord?).
+[Official Discord guidance; QR and token safety tips](https://discord.com/safety/protecting-users-from-scams-on-discord?)
 
-[OWASP — Session Hijacking](https://owasp.org/www-community/attacks/Session_hijacking_attack?).
+[OWASP — Session Hijacking](https://owasp.org/www-community/attacks/Session_hijacking_attack?)
 
 
 
